@@ -16,7 +16,8 @@ This emulator has only been worked on for about a month as of now, so there are 
       -MBC2 
       -MBC3 (no RTC support at the moment)
       -MBC5
-    Compatability is a bit all over the place, but usually games will run either near perfectly, or can't run/crash early on
+    Compatability is a bit all over the place, but usually games will either
+    run near perfectly, or can't run/crash early on
 
 ## Building
 Builds using CMake (same process as https://github.com/SFML/cmake-sfml-project) (has not been tested on Linux/Mac yet!)
