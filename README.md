@@ -21,8 +21,8 @@ Current Specifications:
 Builds using CMake (same process as https://github.com/SFML/cmake-sfml-project) (has not been tested on Linux/Mac yet!)
 precompiled .exe files of versions (including ones made prior to first being uploaded to github) can be found in the versions folder.
 
-![20240611](https://github.com/Zynidian/JewelGBE/assets/166747411/83186178-363a-434f-98a0-5286625cb6f8)
-![20240528](https://github.com/Zynidian/JewelGBE/assets/166747411/0361b037-6394-4d0d-90db-0c0ecc8a8743)
-![20240601a](https://github.com/Zynidian/JewelGBE/assets/166747411/630fab53-68e8-4df1-8d77-9ac9ae7c7203)
-![20240525a](https://github.com/Zynidian/JewelGBE/assets/166747411/d72bd849-1f34-4e57-a538-f1896bca7fa3)
-![20240601c](https://github.com/Zynidian/JewelGBE/assets/166747411/fb53da31-d303-4ad7-a12e-6ef0f0b489e0)
+![1](https://github.com/Zynidian/JewelGBE/assets/166747411/e7ce9a95-504c-4a02-bca1-98cfb31d19a0)
+![2](https://github.com/Zynidian/JewelGBE/assets/166747411/3a62cdee-5969-41cd-a1c7-ab54761cbe47)
+![3](https://github.com/Zynidian/JewelGBE/assets/166747411/c63777c2-7e26-4f49-ad7a-fffbf5ceedd4)
+![4](https://github.com/Zynidian/JewelGBE/assets/166747411/6feb99d1-cbf9-4b16-b4db-eacaa5562e09)
+![5](https://github.com/Zynidian/JewelGBE/assets/166747411/3e82dd32-40cb-48d4-a431-a9ddc843b9bb)
