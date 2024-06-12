@@ -5,17 +5,18 @@ ROMs are ran by either typing the rom path after the executable in the command l
 This emulator has only been worked on for about a month as of now, so there are still compatablility and accuracy issues to work out.
 
 ## Specifications
-    Runs original gameboy games, with limited compatability with dual-mode GBC games
-    All CPU instructions implemented
-    Graphics work with only minor issues in some games
-    Sound emulation including noise channel
-      -pulse sweeping, noise periods, and channel triggering still have some issues
-    Supports the following mappers, along with RAM and .sav files when applicable:
-      -ROM only
-      -MBC1 (no multicarts, and mode switch not implemented)
-      -MBC2 
-      -MBC3 (no RTC support at the moment)
-      -MBC5
+    * Runs original gameboy games, with limited compatability with dual-mode GBC games
+    * All CPU instructions implemented
+    * Graphics work with only minor issues in some games
+    * Sound emulation including noise channel
+        -pulse sweeping, noise periods, and channel triggering still have some issues
+    
+    * Supports the following mappers, along with RAM and .sav files when applicable:
+        -ROM only
+        -MBC1 (no multicarts, and mode switch not implemented)
+        -MBC2 
+        -MBC3 (no RTC support at the moment)
+        -MBC5
     Compatability is a bit all over the place, but usually games will either
     run near perfectly, or can't run/crash early on
 
