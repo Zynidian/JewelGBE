@@ -1,10 +1,10 @@
 # JewelGBE
-Gameboy Emulator written in C++ using SFML
+Jewel is a Gameboy Emulator written in C++ using SFML (although most of the code is written more like it's in standard C)
 
 ROMs are ran by either typing the rom path after the executable in the command line, or by dragging the rom file onto the executable
-
 This emulator has only been worked on for about a month as of now, so there are still compatablility and accuracy issues to work out.
-Current Specifications:
+
+## Specifications
     Runs original gameboy games, with limited compatability with dual-mode GBC games
     All CPU instructions implemented
     Graphics work with only minor issues in some games
@@ -17,7 +17,8 @@ Current Specifications:
       -MBC3 (no RTC support at the moment)
       -MBC5
     Compatability is a bit all over the place, but usually games will run either near perfectly, or can't run/crash early on
-    
+
+## Building
 Builds using CMake (same process as https://github.com/SFML/cmake-sfml-project) (has not been tested on Linux/Mac yet!)
 precompiled .exe files of versions (including ones made prior to first being uploaded to github) can be found in the versions folder.
 
