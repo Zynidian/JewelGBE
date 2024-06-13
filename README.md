@@ -24,6 +24,7 @@ run near perfectly, or can't run/crash early on.
 Builds using CMake (same process as https://github.com/SFML/cmake-sfml-project) (has not been tested on Linux/Mac yet!).<br />
 Precompiled .exe files of versions (including ones made prior to first being uploaded to github) can be found in the versions folder.<br />
 Keep in mind that many of the versions require 'openal32.dll' to be in the same directory as the excutable!
+## Screenshots
 ![1](https://github.com/Zynidian/JewelGBE/assets/166747411/e7ce9a95-504c-4a02-bca1-98cfb31d19a0)
 ![2](https://github.com/Zynidian/JewelGBE/assets/166747411/3a62cdee-5969-41cd-a1c7-ab54761cbe47)
 ![3](https://github.com/Zynidian/JewelGBE/assets/166747411/c63777c2-7e26-4f49-ad7a-fffbf5ceedd4)
